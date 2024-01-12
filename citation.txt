@@ -1,0 +1,6 @@
+@article{REPO040,
+    author = "Dai, Rong and Shen, Li and He, Fengxiang and Tian, Xinmei and Tao, Dacheng",
+    journal = "arXiv preprint arXiv:2206.00187",
+    title = "{DisPFL: Towards Communication-Efficient Personalized Federated Learning via Decentralized Sparse Training}",
+    year = "2022"
+}
